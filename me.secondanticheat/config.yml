@@ -1,0 +1,13 @@
+detections:
+  fly: true
+  killaura: true
+  speedhack: true
+  nofall: true
+  autoclicker: true
+  esp: true
+  timer: true
+  fastbreak: true
+  fastplace: true
+  antikb: true
+
+webhook_url: "https://your-webhook-url-here"
